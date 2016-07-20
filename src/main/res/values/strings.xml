@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="game_start">Game start!</string>
+    <string name="clear">Clear!</string>
+    <string name="game_over">Game over</string>
+    <string name="block_count">Block :%s</string>
+    <string name="time">Time:%1$d.%2$d</string>
+    <string name="score">Score:%d</string>
+    <string name="high_score">Hight score:%d</string>
+    <string name="share">Share</string>
+</resources>
